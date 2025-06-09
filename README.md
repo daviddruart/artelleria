@@ -17,22 +17,22 @@
     •Sistema de comentarios o reacciones
     •Búsqueda y filtrado por estilos, autores o etiquetas
     •Panel de administración para moderar contenidos
-7. Tecnologías Propuestas
-  •	Frontend: HTML, CSS, JavaScript, React
-  •	Backend: Node.js, Python, C++
-  •	Base de Datos: MySQL, PostgreSQL, MongoDB
-  •	Otros: Firebase, APIs, OpenCV (para procesamiento de imágenes si se desea aplicar análisis visual o filtros)
-8. Equipo de Trabajo
-  •	Líder de Proyecto: Cristian David Rincón Urrea
-  •	Desarrollador: Cristian David Rincón Urrea
-  •	Diseñador UI/UX: Cristian David Rincón Urrea
-  •	QA/Testers: Cristian David Rincón Urrea
-9. Metodología
-   Scrum
-10. Fases del Proyecto
-  1.	Investigación y planificación
-  2.	Diseño UI/UX
-  3.	Desarrollo inicial (MVP)
-  4.	Pruebas y ajustes
-  5.	Lanzamiento
-  6.	Mantenimiento y mejora continua
+### 6. Tecnologías Propuestas
+    •Frontend: HTML, CSS, JavaScript, React
+    •Backend: Node.js, Python, C++
+    •Base de Datos: MySQL, PostgreSQL, MongoDB
+    •Otros: Firebase, APIs, OpenCV (para procesamiento de imágenes si se desea aplicar análisis visual o filtros)
+### 7. Equipo de Trabajo
+    •Líder de Proyecto: Cristian David Rincón Urrea
+    •Desarrollador: Cristian David Rincón Urrea
+    •Diseñador UI/UX: Cristian David Rincón Urrea
+    •QA/Testers: Cristian David Rincón Urrea
+### 8. Metodología
+    Scrum
+### 9. Fases del Proyecto
+    1.Investigación y planificación
+    2.Diseño UI/UX
+    3.Desarrollo inicial (MVP)
+    4.Pruebas y ajustes
+    5.Lanzamiento
+    6.Mantenimiento y mejora continua
