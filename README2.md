@@ -1,2 +1,2 @@
 # Modelo entidad relación
-  blob:https://web.whatsapp.com/a3a82103-d276-4514-8789-8f1d624bf60e
+![modelo_ER](https://github.com/user-attachments/assets/b8bee8c8-767b-4625-bb07-9c23afc38a70)
