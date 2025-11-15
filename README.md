@@ -1,7 +1,7 @@
 # Artęlleria <p>
 ## Esquema del Proyecto: Artelleria
 ### 1. Nombre del Proyecto
-    Artęleria
+    Artęlleria
 ### 2. Descripción Breve
     Página web (y móvil) en donde se publicarán obras de arte de diferente tipo.
 ### 3. Objetivo General
